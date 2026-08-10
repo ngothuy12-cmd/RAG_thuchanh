@@ -1,6 +1,0 @@
-PyMuPDF
-Pillow
-llama-cloud
-pydantic
-streamlit
-python-dotenv

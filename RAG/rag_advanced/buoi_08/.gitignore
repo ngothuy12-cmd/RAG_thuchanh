@@ -1,7 +1,0 @@
-.env
-__pycache__/
-*.pyc
-storage/chroma/
-storage/huggingface/
-reports/*.json
-.streamlit/
