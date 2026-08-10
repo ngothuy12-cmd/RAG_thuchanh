@@ -1,0 +1,58 @@
+[
+  {
+    "query_id": "Q01",
+    "question": "Điều 7 quy định như thế nào về cơ cấu lại thời hạn trả nợ?",
+    "relevant_chunk_ids": ["TT_02_2023_NHNN:hierarchical:0027"],
+    "scope": "in_scope",
+    "needs_human_review": true
+  },
+  {
+    "query_id": "Q02",
+    "question": "Khách hàng gặp khó khăn có thể được điều chỉnh kỳ hạn trả nợ ra sao?",
+    "relevant_chunk_ids": ["TT_02_2023_NHNN:hierarchical:0020", "TT_02_2023_NHNN:hierarchical:0008"],
+    "scope": "in_scope",
+    "needs_human_review": true
+  },
+  {
+    "query_id": "Q03",
+    "question": "Phân loại nợ và trích lập dự phòng được thực hiện như thế nào?",
+    "relevant_chunk_ids": ["TT_02_2023_NHNN:hierarchical:0023", "TT_02_2023_NHNN:hierarchical:0024"],
+    "scope": "in_scope",
+    "needs_human_review": true
+  },
+  {
+    "query_id": "Q04",
+    "question": "Ngân hàng nào có lãi suất tiết kiệm cao nhất hôm nay?",
+    "relevant_chunk_ids": [],
+    "scope": "out_of_scope",
+    "needs_human_review": true
+  },
+  {
+    "query_id": "Q05",
+    "question": "Trách nhiệm của tổ chức tín dụng trong việc báo cáo định kỳ là gì?",
+    "relevant_chunk_ids": ["TT_02_2023_NHNN:hierarchical:0052", "TT_02_2023_NHNN:hierarchical:0039"],
+    "scope": "in_scope",
+    "needs_human_review": true
+  },
+  {
+    "query_id": "Q06",
+    "question": "Việc giữ nguyên nhóm nợ được quy định từ thời điểm nào?",
+    "relevant_chunk_ids": ["TT_02_2023_NHNN:hierarchical:0017"],
+    "scope": "in_scope",
+    "needs_human_review": true
+  },
+  {
+    "query_id": "Q07",
+    "question": "Hướng dẫn lập báo cáo quy định tại khoản 4 Điều 7 là gì?",
+    "relevant_chunk_ids": ["TT_02_2023_NHNN:hierarchical:0059"],
+    "scope": "in_scope",
+    "needs_human_review": true
+  },
+  {
+    "query_id": "Q08",
+    "question": "Số dư nợ gốc được cơ cấu lại thời hạn trả nợ thống kê ở cột nào?",
+    "relevant_chunk_ids": ["TT_02_2023_NHNN:hierarchical:0056", "TT_02_2023_NHNN:hierarchical:0055"],
+    "scope": "in_scope",
+    "needs_human_review": true
+  }
+]
