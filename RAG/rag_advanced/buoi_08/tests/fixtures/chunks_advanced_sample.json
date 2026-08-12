@@ -1,0 +1,66 @@
+[
+  {
+    "chunk_id": "ADV_01",
+    "strategy": "hierarchical",
+    "source": "Luật Mẫu 01",
+    "page_start": 1,
+    "page_end": 1,
+    "text": "Điều 1, Khoản 2: Quy định về tài sản bảo đảm. Tài sản bảo đảm phải thuộc quyền sở hữu hợp pháp của bên bảo đảm."
+  },
+  {
+    "chunk_id": "ADV_02",
+    "strategy": "hierarchical",
+    "source": "Luật Mẫu 01",
+    "page_start": 2,
+    "page_end": 2,
+    "text": "Điều 2: Xử lý tài sản bảo đảm. Trong trường hợp có tranh chấp, tài sản bảo đảm sẽ được định giá lại theo thị trường."
+  },
+  {
+    "chunk_id": "ADV_03",
+    "strategy": "hierarchical",
+    "source": "Nghị định 02",
+    "page_start": 5,
+    "page_end": 5,
+    "text": "Khoản 1: Mức phí vay vốn hiện hành được áp dụng dựa trên chỉ số lạm phát quốc gia và các yếu tố vĩ mô."
+  },
+  {
+    "chunk_id": "ADV_04",
+    "strategy": "hierarchical",
+    "source": "Nghị định 02",
+    "page_start": 6,
+    "page_end": 6,
+    "text": "Khoản 2: Lãi suất tín dụng thực tế sẽ biến động phụ thuộc vào tình hình giá cả thị trường và kinh tế tổng thể."
+  },
+  {
+    "chunk_id": "ADV_05",
+    "strategy": "hierarchical",
+    "source": "Sách Nấu Ăn",
+    "page_start": 10,
+    "page_end": 10,
+    "text": "Công thức nấu phở bò: Cần chuẩn bị xương ống, hoa hồi, quế, thảo quả và ninh trong ít nhất 8 tiếng để nước dùng ngọt thanh."
+  },
+  {
+    "chunk_id": "ADV_06",
+    "strategy": "hierarchical",
+    "source": "Luật Mẫu 03",
+    "page_start": 3,
+    "page_end": 3,
+    "text": "Điều 3, Khoản 1: Phạt vi phạm hợp đồng được áp dụng khi một bên không hoàn thành nghĩa vụ đã cam kết."
+  },
+  {
+    "chunk_id": "ADV_07",
+    "strategy": "hierarchical",
+    "source": "Luật Mẫu 03",
+    "page_start": 3,
+    "page_end": 4,
+    "text": "Điều 3, Khoản 2: Bồi thường thiệt hại bao gồm tổn thất thực tế và các lợi ích đáng lẽ bên bị vi phạm được hưởng."
+  },
+  {
+    "chunk_id": "ADV_08",
+    "strategy": "hierarchical",
+    "source": "Thông tư 04",
+    "page_start": 12,
+    "page_end": 12,
+    "text": "Điều 4: Thanh toán điện tử. Mọi giao dịch thông qua cổng thanh toán quốc gia phải tuân thủ tiêu chuẩn bảo mật dữ liệu cấp 1."
+  }
+]
