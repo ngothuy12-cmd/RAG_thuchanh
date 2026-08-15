@@ -1,10 +1,53 @@
+# Environment & Secrets
 .env
 **/.env
-*.db
-**/*.db
+*.env
+**/*.env
+!.env.example
+
+# Python Cache & Bytecode
+__pycache__/
 **/__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
 .venv/
 **/.venv/
+venv/
+**/venv/
+env/
+**/env/
+
+# Vector DB & Embeddings & Cache
+chroma_db/
+**/chroma_db/
+faiss_index/
+**/faiss_index/
+*.sqlite3
+**/*.sqlite3
+*.db
+**/*.db
+cache/
+**/cache/
+*.pkl
+*.npy
+*.index
+
+# Internal Documents & Raw Data
+data/
+**/data/
+docs/
+**/docs/
+datademo/
+**/datademo/
+storage/
+**/storage/
+
+# Outputs & Temporary Files
+outputs/
+**/outputs/
 .DS_Store
 **/.DS_Store
 *.log
+tmp.txt

@@ -1,0 +1,118 @@
+entity_id,source_doc_id,entity_type,canonical_name,original_name,source,method,confidence,evidence
+ENT_0001,166170,CoQuan,Quốc hội,Quốc hội,metadata,rule,1.0,Metadata gốc: co_quan_ban_hanh = Quốc hội
+ENT_0002,166170,CoQuan,Quốc hội,Quốc hội,content_clean,gemini,0.98,Quốc hội ban hành Luật Các tổ chức tín dụng.
+ENT_0003,166170,NguoiKy,Vương Đình Huệ,Vương Đình Huệ,metadata,rule,1.0,Metadata gốc: nguoi_ky = Vương Đình Huệ
+ENT_0004,166170,LinhVuc,Tín dụng,Tín dụng,metadata,rule,1.0,Metadata gốc: linh_vuc = Tín dụng
+ENT_0005,166170,LinhVuc,Tín dụng,Tín dụng,content_clean,gemini,0.95,LUẬT CÁC TỔ CHỨC TÍN DỤNG
+ENT_0006,166170,DoiTuongApDung,Tổ chức tín dụng,Tổ chức tín dụng,content_clean,gemini,0.98,1. Tổ chức tín dụng.
+ENT_0007,166170,DoiTuongApDung,Chi nhánh ngân hàng nước ngoài,Chi nhánh ngân hàng nước ngoài,content_clean,gemini,0.98,2. Chi nhánh ngân hàng nước ngoài.
+ENT_0008,166170,DoiTuongApDung,"Văn phòng đại diện tại Việt Nam của tổ chức tín dụng nước ngoài, tổ chức nước ngoài khác có hoạt động ngân hàng","Văn phòng đại diện tại Việt Nam của tổ chức tín dụng nước ngoài, tổ chức nước ngoài khác có hoạt động ngân hàng",content_clean,gemini,0.95,"3. Văn phòng đại diện tại Việt Nam của tổ chức tín dụng nước ngoài, tổ chức nước ngoài khác có hoạt động ngân hàng (sau đây gọi là văn phòng đại diện nước ngoài)."
+ENT_0009,166170,DoiTuongApDung,"Tổ chức mà Nhà nước sở hữu 100% vốn điều lệ có chức năng mua, bán, xử lý nợ","Tổ chức mà Nhà nước sở hữu 100% vốn điều lệ có chức năng mua, bán, xử lý nợ",content_clean,gemini,0.95,"4. Tổ chức mà Nhà nước sở hữu 100% vốn điều lệ có chức năng mua, bán, xử lý nợ (sau đây gọi là tổ chức mua bán, xử lý nợ)."
+ENT_0010,166170,DoiTuongApDung,"Cơ quan, tổ chức, cá nhân có liên quan","Cơ quan, tổ chức, cá nhân có liên quan",content_clean,gemini,0.9,"5. Cơ quan, tổ chức, cá nhân có liên quan đến việc thành lập, tổ chức, hoạt động, can thiệp sớm, kiểm soát đặc biệt, tổ chức lại, giải thể, phá sản tổ chức tín dụng"
+ENT_0011,112025,CoQuan,Chính phủ,Chính phủ,metadata,rule,1.0,Metadata gốc: co_quan_ban_hanh = Chính phủ
+ENT_0012,112025,CoQuan,Chính phủ,Chính phủ,content_clean,gemini,0.98,"Chính phủ ban hành Nghị định quy định chi tiết thi hành Luật kinh doanh bảo hiểm và Luật sửa đổi, bổ sung một số điều của Luật kinh doanh bảo hiểm."
+ENT_0013,112025,NguoiKy,Nguyễn Xuân Phúc,Nguyễn Xuân Phúc,metadata,rule,1.0,Metadata gốc: nguoi_ky = Nguyễn Xuân Phúc
+ENT_0014,112025,LinhVuc,Bảo hiểm,Bảo hiểm,content_clean,gemini,0.95,"QUY ĐỊNH CHI TIẾT THI HÀNH LUẬT KINH DOANH BẢO HIỂM VÀ LUẬT SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT KINH DOANH BẢO HIỂM"
+ENT_0015,112025,DoiTuongApDung,Doanh nghiệp bảo hiểm,Doanh nghiệp bảo hiểm,content_clean,gemini,0.95,a) Doanh nghiệp bảo hiểm;
+ENT_0016,112025,DoiTuongApDung,Chi nhánh nước ngoài,Chi nhánh nước ngoài,content_clean,gemini,0.95,b) Chi nhánh nước ngoài;
+ENT_0017,112025,DoiTuongApDung,Doanh nghiệp môi giới bảo hiểm,Doanh nghiệp môi giới bảo hiểm,content_clean,gemini,0.95,"c) Doanh nghiệp môi giới bảo hiểm, đại lý bảo hiểm;"
+ENT_0018,112025,DoiTuongApDung,Đại lý bảo hiểm,Đại lý bảo hiểm,content_clean,gemini,0.95,"c) Doanh nghiệp môi giới bảo hiểm, đại lý bảo hiểm;"
+ENT_0019,112025,DoiTuongApDung,"Các tổ chức, cá nhân khác có liên quan","Các tổ chức, cá nhân khác có liên quan",content_clean,gemini,0.9,"d) Các tổ chức, cá nhân khác có liên quan."
+ENT_0020,38128,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,metadata,rule,1.0,Metadata gốc: co_quan_ban_hanh = Ngân hàng Nhà nước Việt Nam
+ENT_0021,38128,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,content_clean,gemini,0.98,NGÂN HÀNG NHÀ NƯỚC VIỆT NAM
+ENT_0022,38128,NguoiKy,Đào Minh Tú,Đào Minh Tú,metadata,rule,1.0,Metadata gốc: nguoi_ky = Đào Minh Tú
+ENT_0023,38128,NguoiKy,Đào Minh Tú,Đào Minh Tú,content_clean,gemini,0.95,Người ký: Đào Minh Tú
+ENT_0024,38128,LinhVuc,Phát hành và kho quỹ,Phát hành và kho quỹ,metadata,rule,1.0,Metadata gốc: linh_vuc = Phát hành và kho quỹ
+ENT_0025,38128,LinhVuc,Phát hành và kho quỹ,Phát hành và kho quỹ,content_clean,gemini,0.95,Lĩnh vực: Phát hành và kho quỹ
+ENT_0026,38128,DoiTuongApDung,Các đơn vị có liên quan thuộc Ngân hàng Nhà nước,Các đơn vị có liên quan thuộc Ngân hàng Nhà nước,content_clean,gemini,0.95,1. Các đơn vị có liên quan thuộc Ngân hàng Nhà nước.
+ENT_0027,38128,DoiTuongApDung,Nhà máy in tiền Quốc gia,Nhà máy in tiền Quốc gia,content_clean,gemini,0.95,2. Nhà máy in tiền Quốc gia.
+ENT_0028,38128,DoiTuongApDung,"Tổ chức, cá nhân khác có liên quan đến công việc thiết kế mẫu tiền, chế tạo bản in, khuôn đúc và in, đúc tiền","Tổ chức, cá nhân khác có liên quan đến công việc thiết kế mẫu tiền, chế tạo bản in, khuôn đúc và in, đúc tiền",content_clean,gemini,0.92,"3. Tổ chức, cá nhân khác có liên quan đến công việc thiết kế mẫu tiền, chế tạo bản in, khuôn đúc và in, đúc tiền."
+ENT_0029,26750,CoQuan,Quốc hội,Quốc hội,metadata,rule,1.0,Metadata gốc: co_quan_ban_hanh = Quốc hội
+ENT_0030,26750,CoQuan,Quốc hội,Quốc hội,content_clean,gemini,0.98,Quốc hội ban hành Luật Kiểm toán độc lập
+ENT_0031,26750,NguoiKy,Nguyễn Phú Trọng,Nguyễn Phú Trọng,metadata,rule,1.0,Metadata gốc: nguoi_ky = Nguyễn Phú Trọng
+ENT_0032,26750,LinhVuc,Kiểm toán,Kiểm toán độc lập,content_clean,gemini,0.95,"Luật này quy định nguyên tắc, điều kiện, phạm vi, hình thức hoạt động kiểm toán độc lập;"
+ENT_0033,26750,DoiTuongApDung,Kiểm toán viên,kiểm toán viên,content_clean,gemini,0.95,"Luật này áp dụng đối với kiểm toán viên, kiểm toán viên hành nghề, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, đơn vị được kiểm toán, tổ chức nghề nghiệp về kiểm toán và tổ chức, cá nhân khác có liên quan đến hoạt động kiểm toán độc lập."
+ENT_0034,26750,DoiTuongApDung,Kiểm toán viên hành nghề,kiểm toán viên hành nghề,content_clean,gemini,0.95,"Luật này áp dụng đối với kiểm toán viên, kiểm toán viên hành nghề, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, đơn vị được kiểm toán, tổ chức nghề nghiệp về kiểm toán và tổ chức, cá nhân khác có liên quan đến hoạt động kiểm toán độc lập."
+ENT_0035,26750,DoiTuongApDung,Doanh nghiệp kiểm toán,doanh nghiệp kiểm toán,content_clean,gemini,0.95,"Luật này áp dụng đối với kiểm toán viên, kiểm toán viên hành nghề, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, đơn vị được kiểm toán, tổ chức nghề nghiệp về kiểm toán và tổ chức, cá nhân khác có liên quan đến hoạt động kiểm toán độc lập."
+ENT_0036,26750,DoiTuongApDung,Chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam,chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam,content_clean,gemini,0.95,"Luật này áp dụng đối với kiểm toán viên, kiểm toán viên hành nghề, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, đơn vị được kiểm toán, tổ chức nghề nghiệp về kiểm toán và tổ chức, cá nhân khác có liên quan đến hoạt động kiểm toán độc lập."
+ENT_0037,26750,DoiTuongApDung,Đơn vị được kiểm toán,đơn vị được kiểm toán,content_clean,gemini,0.95,"Luật này áp dụng đối với kiểm toán viên, kiểm toán viên hành nghề, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, đơn vị được kiểm toán, tổ chức nghề nghiệp về kiểm toán và tổ chức, cá nhân khác có liên quan đến hoạt động kiểm toán độc lập."
+ENT_0038,26750,DoiTuongApDung,Tổ chức nghề nghiệp về kiểm toán,tổ chức nghề nghiệp về kiểm toán,content_clean,gemini,0.95,"Luật này áp dụng đối với kiểm toán viên, kiểm toán viên hành nghề, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, đơn vị được kiểm toán, tổ chức nghề nghiệp về kiểm toán và tổ chức, cá nhân khác có liên quan đến hoạt động kiểm toán độc lập."
+ENT_0039,26750,DoiTuongApDung,"Tổ chức, cá nhân khác có liên quan đến hoạt động kiểm toán độc lập","tổ chức, cá nhân khác có liên quan đến hoạt động kiểm toán độc lập",content_clean,gemini,0.9,"Luật này áp dụng đối với kiểm toán viên, kiểm toán viên hành nghề, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, đơn vị được kiểm toán, tổ chức nghề nghiệp về kiểm toán và tổ chức, cá nhân khác có liên quan đến hoạt động kiểm toán độc lập."
+ENT_0040,163441,CoQuan,Chính phủ,Chính phủ,metadata,rule,1.0,Metadata gốc: co_quan_ban_hanh = Chính phủ
+ENT_0041,163441,NguoiKy,Lê Minh Khái,Lê Minh Khái,metadata,rule,1.0,Metadata gốc: nguoi_ky = Lê Minh Khái
+ENT_0042,163441,LinhVuc,Bảo hiểm,Bảo hiểm,metadata,rule,1.0,Metadata gốc: linh_vuc = Bảo hiểm
+ENT_0043,146468,CoQuan,Chính phủ,Chính phủ,metadata,rule,1.0,Metadata gốc: co_quan_ban_hanh = Chính phủ
+ENT_0044,146468,NguoiKy,Nguyễn Xuân Phúc,Nguyễn Xuân Phúc,metadata,rule,1.0,Metadata gốc: nguoi_ky = Nguyễn Xuân Phúc
+ENT_0045,146468,LinhVuc,Chứng khoán,Chứng khoán,metadata,rule,1.0,Metadata gốc: linh_vuc = Chứng khoán
+ENT_0046,168220,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,metadata,rule,1.0,Metadata gốc: co_quan_ban_hanh = Ngân hàng Nhà nước Việt Nam
+ENT_0047,168220,NguoiKy,Đào Minh Tú,Đào Minh Tú,metadata,rule,1.0,Metadata gốc: nguoi_ky = Đào Minh Tú
+ENT_0048,168220,LinhVuc,"Thanh tra, giám sát ngân hàng","Thanh tra, giám sát ngân hàng",metadata,rule,1.0,"Metadata gốc: linh_vuc = Thanh tra, giám sát ngân hàng"
+ENT_0049,133858,CoQuan,Chính phủ,Chính phủ,metadata,rule,1.0,Metadata gốc: co_quan_ban_hanh = Chính phủ
+ENT_0050,133858,CoQuan,Chính phủ,Chính phủ,content_clean,gemini,0.98,Chính phủ ban hành Nghị định về kiểm toán nội bộ.
+ENT_0051,133858,NguoiKy,Nguyễn Xuân Phúc,Nguyễn Xuân Phúc,metadata,rule,1.0,Metadata gốc: nguoi_ky = Nguyễn Xuân Phúc
+ENT_0052,133858,NguoiKy,Nguyễn Xuân Phúc,Nguyễn Xuân Phúc,content_clean,gemini,0.9,Người ký: Nguyễn Xuân Phúc
+ENT_0053,133858,LinhVuc,Kiểm toán,Kiểm toán,content_clean,gemini,0.95,"Nghị định này quy định về công tác kiểm toán nội bộ trong các cơ quan nhà nước, đơn vị sự nghiệp công lập và các doanh nghiệp."
+ENT_0054,133858,DoiTuongApDung,"Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ","Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ",content_clean,gemini,0.95,"a) Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ;"
+ENT_0055,133858,DoiTuongApDung,"Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương","Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương",content_clean,gemini,0.95,"b) Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương;"
+ENT_0056,133858,DoiTuongApDung,Các đơn vị sự nghiệp công lập,Các đơn vị sự nghiệp công lập,content_clean,gemini,0.95,c) Các đơn vị sự nghiệp công lập;
+ENT_0057,133858,DoiTuongApDung,Các doanh nghiệp,Các doanh nghiệp,content_clean,gemini,0.95,d) Các doanh nghiệp;
+ENT_0058,133858,DoiTuongApDung,"Các tổ chức, cá nhân khác có liên quan đến hoạt động kiểm toán nội bộ","Các tổ chức, cá nhân khác có liên quan đến hoạt động kiểm toán nội bộ",content_clean,gemini,0.9,"đ) Các tổ chức, cá nhân khác có liên quan đến hoạt động kiểm toán nội bộ."
+ENT_0059,133858,DoiTuongApDung,Tổ chức tín dụng,Tổ chức tín dụng,content_clean,gemini,0.9,Công tác kiểm toán nội bộ của tổ chức tín dụng thực hiện theo Luật các tổ chức tín dụng
+ENT_0060,133858,DoiTuongApDung,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước,content_clean,gemini,0.9,Công tác kiểm toán nội bộ của Ngân hàng Nhà nước thực hiện theo Luật Ngân hàng Nhà nước
+ENT_0061,169221,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,metadata,rule,1.0,Metadata gốc: co_quan_ban_hanh = Ngân hàng Nhà nước Việt Nam
+ENT_0062,169221,NguoiKy,Phạm Thanh Hà,Phạm Thanh Hà,metadata,rule,1.0,Metadata gốc: nguoi_ky = Phạm Thanh Hà
+ENT_0063,169221,LinhVuc,Quản lý ngoại hối,Quản lý ngoại hối,metadata,rule,1.0,Metadata gốc: linh_vuc = Quản lý ngoại hối
+ENT_0064,95652,CoQuan,Chính phủ,Chính phủ,metadata,rule,1.0,Metadata gốc: co_quan_ban_hanh = Chính phủ
+ENT_0065,95652,NguoiKy,Nguyễn Tấn Dũng,Nguyễn Tấn Dũng,metadata,rule,1.0,Metadata gốc: nguoi_ky = Nguyễn Tấn Dũng
+ENT_0066,f69936f0-6937-11f1-a48d-29bc6b0fd706,CoQuan,Bộ Tài chính,Bộ Tài chính,metadata,rule,1.0,Metadata gốc: co_quan_ban_hanh = Bộ Tài chính
+ENT_0067,f69936f0-6937-11f1-a48d-29bc6b0fd706,NguoiKy,Nguyễn Đức Chi,Nguyễn Đức Chi,metadata,rule,1.0,Metadata gốc: nguoi_ky = Nguyễn Đức Chi
+ENT_0068,30402,CoQuan,Bộ Tài chính,Bộ Tài chính,metadata,rule,1.0,Metadata gốc: co_quan_ban_hanh = Bộ Tài chính
+ENT_0069,30402,NguoiKy,Trần Xuân Hà,Trần Xuân Hà,metadata,rule,1.0,Metadata gốc: nguoi_ky = Trần Xuân Hà
+ENT_0070,30402,LinhVuc,Quản lý dịch vụ tài chính và các quỹ tài chính,Quản lý dịch vụ tài chính và các quỹ tài chính,metadata,rule,1.0,Metadata gốc: linh_vuc = Quản lý dịch vụ tài chính và các quỹ tài chính
+ENT_0071,173460,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,metadata,rule,1.0,Metadata gốc: co_quan_ban_hanh = Ngân hàng Nhà nước Việt Nam
+ENT_0072,173460,NguoiKy,Đoàn Thái Sơn,Đoàn Thái Sơn,metadata,rule,1.0,Metadata gốc: nguoi_ky = Đoàn Thái Sơn
+ENT_0073,173460,LinhVuc,"Thanh tra, giám sát ngân hàng","Thanh tra, giám sát ngân hàng",metadata,rule,1.0,"Metadata gốc: linh_vuc = Thanh tra, giám sát ngân hàng"
+ENT_0074,27257,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,metadata,rule,1.0,Metadata gốc: co_quan_ban_hanh = Ngân hàng Nhà nước Việt Nam
+ENT_0075,27257,NguoiKy,Trần Minh Tuấn,Trần Minh Tuấn,metadata,rule,1.0,Metadata gốc: nguoi_ky = Trần Minh Tuấn
+ENT_0076,143217,CoQuan,Bộ Tài chính,Bộ Tài chính,metadata,rule,1.0,Metadata gốc: co_quan_ban_hanh = Bộ Tài chính
+ENT_0077,168859,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,metadata,rule,1.0,Metadata gốc: co_quan_ban_hanh = Ngân hàng Nhà nước Việt Nam
+ENT_0078,168859,NguoiKy,Đào Minh Tú,Đào Minh Tú,metadata,rule,1.0,Metadata gốc: nguoi_ky = Đào Minh Tú
+ENT_0079,168859,LinhVuc,"Thanh tra, giám sát ngân hàng","Thanh tra, giám sát ngân hàng",metadata,rule,1.0,"Metadata gốc: linh_vuc = Thanh tra, giám sát ngân hàng"
+ENT_0080,150974,CoQuan,Bộ Tài chính,Bộ Tài chính,metadata,rule,1.0,Metadata gốc: co_quan_ban_hanh = Bộ Tài chính
+ENT_0081,150974,NguoiKy,Tạ Anh Tuấn,Tạ Anh Tuấn,metadata,rule,1.0,Metadata gốc: nguoi_ky = Tạ Anh Tuấn
+ENT_0082,150974,LinhVuc,Kiểm toán,"Kế toán, kiểm toán",metadata,rule,1.0,"Metadata gốc: linh_vuc = Kế toán, kiểm toán"
+ENT_0083,164719,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,metadata,rule,1.0,Metadata gốc: co_quan_ban_hanh = Ngân hàng Nhà nước Việt Nam
+ENT_0084,164719,NguoiKy,Đoàn Thái Sơn,Đoàn Thái Sơn,metadata,rule,1.0,Metadata gốc: nguoi_ky = Đoàn Thái Sơn
+ENT_0085,164719,LinhVuc,"Thanh tra, giám sát ngân hàng","Thanh tra, giám sát ngân hàng",metadata,rule,1.0,"Metadata gốc: linh_vuc = Thanh tra, giám sát ngân hàng"
+ENT_0086,173695,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,metadata,rule,1.0,Metadata gốc: co_quan_ban_hanh = Ngân hàng Nhà nước Việt Nam
+ENT_0087,173695,NguoiKy,Đoàn Thái Sơn,Đoàn Thái Sơn,metadata,rule,1.0,Metadata gốc: nguoi_ky = Đoàn Thái Sơn
+ENT_0088,173695,LinhVuc,"Thanh tra, giám sát ngân hàng","Thanh tra, giám sát ngân hàng",metadata,rule,1.0,"Metadata gốc: linh_vuc = Thanh tra, giám sát ngân hàng"
+ENT_0089,186482,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,metadata,rule,1.0,Metadata gốc: co_quan_ban_hanh = Ngân hàng Nhà nước Việt Nam
+ENT_0090,186482,NguoiKy,Đoàn Thái Sơn,Đoàn Thái Sơn,metadata,rule,1.0,Metadata gốc: nguoi_ky = Đoàn Thái Sơn
+ENT_0091,186482,LinhVuc,Cục An toàn hệ thống các tổ chức tín dụng,Cục An toàn hệ thống các tổ chức tín dụng,metadata,rule,1.0,Metadata gốc: linh_vuc = Cục An toàn hệ thống các tổ chức tín dụng
+ENT_0092,112924,CoQuan,Bộ Tài chính,Bộ Tài chính,metadata,rule,1.0,Metadata gốc: co_quan_ban_hanh = Bộ Tài chính
+ENT_0093,112924,NguoiKy,Trần Xuân Hà,Trần Xuân Hà,metadata,rule,1.0,Metadata gốc: nguoi_ky = Trần Xuân Hà
+ENT_0094,174218,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,metadata,rule,1.0,Metadata gốc: co_quan_ban_hanh = Ngân hàng Nhà nước Việt Nam
+ENT_0095,174218,NguoiKy,Đoàn Thái Sơn,Đoàn Thái Sơn,metadata,rule,1.0,Metadata gốc: nguoi_ky = Đoàn Thái Sơn
+ENT_0096,174218,LinhVuc,"Thanh tra, giám sát ngân hàng","Thanh tra, giám sát ngân hàng",metadata,rule,1.0,"Metadata gốc: linh_vuc = Thanh tra, giám sát ngân hàng"
+ENT_0097,186888,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,metadata,rule,1.0,Metadata gốc: co_quan_ban_hanh = Ngân hàng Nhà nước Việt Nam
+ENT_0098,186888,NguoiKy,Đoàn Thái Sơn,Đoàn Thái Sơn,metadata,rule,1.0,Metadata gốc: nguoi_ky = Đoàn Thái Sơn
+ENT_0099,186888,LinhVuc,Cục An toàn hệ thống các tổ chức tín dụng,Cục An toàn hệ thống các tổ chức tín dụng,metadata,rule,1.0,Metadata gốc: linh_vuc = Cục An toàn hệ thống các tổ chức tín dụng
+ENT_0100,6e689cd0-6f81-11f1-94d6-fd5d6d5ff793,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,metadata,rule,1.0,Metadata gốc: co_quan_ban_hanh = Ngân hàng Nhà nước Việt Nam
+ENT_0101,6e689cd0-6f81-11f1-94d6-fd5d6d5ff793,NguoiKy,Đoàn Thái Sơn,Đoàn Thái Sơn,metadata,rule,1.0,Metadata gốc: nguoi_ky = Đoàn Thái Sơn
+ENT_0102,185630,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,metadata,rule,1.0,Metadata gốc: co_quan_ban_hanh = Ngân hàng Nhà nước Việt Nam
+ENT_0103,185630,NguoiKy,Đoàn Thái Sơn,Đoàn Thái Sơn,metadata,rule,1.0,Metadata gốc: nguoi_ky = Đoàn Thái Sơn
+ENT_0104,185630,LinhVuc,"Lao động, tiền lương, tiền công","Lao động, tiền lương, tiền công",metadata,rule,1.0,"Metadata gốc: linh_vuc = Lao động, tiền lương, tiền công"
+ENT_0105,117310,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,metadata,rule,1.0,Metadata gốc: co_quan_ban_hanh = Ngân hàng Nhà nước Việt Nam
+ENT_0106,117310,NguoiKy,Nguyễn Đồng Tiến,Nguyễn Đồng Tiến,metadata,rule,1.0,Metadata gốc: nguoi_ky = Nguyễn Đồng Tiến
+ENT_0107,117310,LinhVuc,"Thanh tra, giám sát ngân hàng","Thanh tra, giám sát ngân hàng",metadata,rule,1.0,"Metadata gốc: linh_vuc = Thanh tra, giám sát ngân hàng"
+ENT_0108,166269,CoQuan,Quốc hội,Quốc hội,metadata,rule,1.0,Metadata gốc: co_quan_ban_hanh = Quốc hội
+ENT_0109,166269,NguoiKy,Vương Đình Huệ,Vương Đình Huệ,metadata,rule,1.0,Metadata gốc: nguoi_ky = Vương Đình Huệ
+ENT_0110,177271,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,metadata,rule,1.0,Metadata gốc: co_quan_ban_hanh = Ngân hàng Nhà nước Việt Nam
+ENT_0111,177271,NguoiKy,Đoàn Thái Sơn,Đoàn Thái Sơn,metadata,rule,1.0,Metadata gốc: nguoi_ky = Đoàn Thái Sơn
+ENT_0112,177271,LinhVuc,Cục An toàn hệ thống các tổ chức tín dụng,Cục An toàn hệ thống các tổ chức tín dụng,metadata,rule,1.0,Metadata gốc: linh_vuc = Cục An toàn hệ thống các tổ chức tín dụng
+ENT_0113,44209,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,metadata,rule,1.0,Metadata gốc: co_quan_ban_hanh = Ngân hàng Nhà nước Việt Nam
+ENT_0114,44209,NguoiKy,Đào Minh Tú,Đào Minh Tú,metadata,rule,1.0,Metadata gốc: nguoi_ky = Đào Minh Tú
+ENT_0115,44209,LinhVuc,Phát hành và kho quỹ,Phát hành và kho quỹ,metadata,rule,1.0,Metadata gốc: linh_vuc = Phát hành và kho quỹ
+ENT_0116,25692,CoQuan,Quốc hội,Quốc hội,metadata,rule,1.0,Metadata gốc: co_quan_ban_hanh = Quốc hội
+ENT_0117,25692,NguoiKy,Nguyễn Phú Trọng,Nguyễn Phú Trọng,metadata,rule,1.0,Metadata gốc: nguoi_ky = Nguyễn Phú Trọng
