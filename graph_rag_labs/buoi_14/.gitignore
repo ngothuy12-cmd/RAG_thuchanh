@@ -1,0 +1,30 @@
+# Environment & Secrets
+.env
+*.env
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+.venv/
+venv/
+
+# Vector DB & Embeddings & Cache
+chroma_db/
+faiss_index/
+*.sqlite3
+*.db
+cache/
+*.pkl
+*.npy
+
+# Internal Documents & Raw Data
+data/
+docs/
+
+# Outputs & Temporary Files
+outputs/
+.DS_Store
+*.log

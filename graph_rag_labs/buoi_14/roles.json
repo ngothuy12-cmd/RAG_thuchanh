@@ -1,0 +1,4 @@
+{
+  "roles": ["Admin", "HR", "Risk_Manager", "Staff", "Guest"],
+  "description": "Danh sách các vai trò hợp lệ cho hệ thống RBAC Buổi 15"
+}
